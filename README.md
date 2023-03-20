@@ -27,5 +27,14 @@
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="AngularJS" alt="AngularJS" width="40" height"40"/>&nbsp;
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height"40"/>&nbsp;
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/python/python-plain.svg" title"Python" alt="Python" width="40" heigth"40"/>&nbsp;
+    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" heigth="40"/>&nbsp;
   </div>
+  
+  
+  ---
+  
 
+### 📊 Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luisnefelibato&theme=prussian&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Luisfer GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisnefelibato&show_icons=true&theme=tokyonight)
