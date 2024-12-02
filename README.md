@@ -9,7 +9,7 @@
 
 ### 🤔 • Sobre Mí :
 
- - 🌴 18 años.
+ - 🌴 19 años.
  - 😎 Aprendiendo **FrameWorks**.
  - 💬 Pregúntame sobre: **Diseño, HTML, CSS, JavaScript**.
  - 📬 Contáctame: **luisfgomezosp@gmail.com**.
