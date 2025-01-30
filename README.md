@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="350" />
 <h1 aling="center">👋 • Que tal, soy Luis Fernando </h1>
-<h3 aling="center">Progamador Front-End y Analista de Datos Colombiano. Escuchar Música y Codificar.
+<h3 aling="center">Progamador Full-stack Colombiano. Escuchar Música y Codificar.
 </div>
 
 ---
