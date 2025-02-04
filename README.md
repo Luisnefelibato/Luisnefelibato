@@ -10,7 +10,7 @@
 ### 🤔 • Sobre Mí :
 
  - 🌴 19 años.
- - 😎 Aprendiendo **FrameWorks**.
+ - 😎 Aprendiendo **kUBERNETES**.
  - 💬 Pregúntame sobre: **Diseño, HTML, CSS, JavaScript**.
  - 📬 Contáctame: **luisfgomezosp@gmail.com**.
  - 🌐 Sitio Web: **[Portfolio](https://portafolio_luisfer.surge.sh/)**. 
