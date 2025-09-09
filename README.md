@@ -10,8 +10,7 @@
 ### 🤔 • Sobre Mí :
 
  - 🌴 20 años.
- - 😎 Aprendiendo **Docker**.
- - 💬 Pregúntame sobre: **Diseño, HTML, CSS, JavaScript**.
+ - 💬 Pregúntame sobre: **Diseño, IA, backend, bases de datos!**.
  - 📬 Contáctame: **luisfgomezosp@gmail.com**.
  - 🌐 Sitio Web: **[Portfolio](https://portafolio_luisfer.surge.sh/)**. 
 
