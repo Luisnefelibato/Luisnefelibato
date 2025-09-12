@@ -12,7 +12,7 @@
  - 🌴 20 años.
  - 💬 Pregúntame sobre: **Diseño, IA, backend, bases de datos!**.
  - 📬 Contáctame: **luisfgomezosp@gmail.com**.
- - 🌐 Sitio Web: **[Portfolio](https://portafolio_luisfer.surge.sh/)**. 
+ - 🌐 Sitio Web: **[Portfolio](https://luis-fer-2025.vercel.app/)**. 
 
 
 ---
